@@ -1,0 +1,38 @@
+United States of America#//#USD#//#US Dollar#//#1.000000
+Afghanistan#//#AFN#//#Afghanistan Afghani#//#72.500000
+Albania#//#ALL#//#Albania Lek(e)#//#94.200000
+Algeria#//#DZD#//#Algerian Dinar#//#134.150000
+American Samoa#//#USD#//#US Dollar#//#1.000000
+France#//#EUR#//#Euro#//#0.921000
+Angola#//#AOA#//#Angolan Kwanza#//#845.000000
+Australia#//#AUD#//#Australian Dollar#//#1.525000
+Bahrain#//#BHD#//#Bahraini Dinar#//#0.376000
+Brazil#//#BRL#//#Brazilian Real#//#4.950000
+Canada#//#CAD#//#Canadian Dollar#//#1.358000
+Chile#//#CLP#//#Chilean Peso#//#965.000000
+China#//#CNY#//#Chinese Renminbi#//#7.190000
+Colombia#//#COP#//#Colombian Peso#//#3920.000000
+Egypt#//#EGP#//#Egyptian Pound#//#24.592
+Germany#//#EUR#//#Euro#//#0.921000
+Hong Kong#//#HKD#//#HongKong Dollar#//#7.820000
+India#//#INR#//#Indian Rupee#//#82.950000
+Indonesia#//#IDR#//#Indonesia Rupiah#//#15720.000000
+Iraq#//#IQD#//#Iraqi Dinar#//#1310.000000
+Japan#//#JPY#//#Japanese Yen#//#149.500000
+Jordan#//#JOD#//#Jordanian Dinar#//#0.708
+Kuwait#//#KWD#//#Kuwaiti Dinar#//#0.308000
+Lebanon#//#LBP#//#Lebanese Pound#//#89500.000000
+Libyan Arab Jamahiriya#//#LYD#//#Libyan Dinar#//#4.830000
+Malaysia#//#MYR#//#Malaysia Ringgit#//#4.720000
+Morocco#//#MAD#//#Morocco Dirham#//#10.050000
+Oman#//#OMR#//#Oman Rial#//#0.384000
+Pakistan#//#PKR#//#Pakistani Rupee#//#279.500000
+Qatar#//#QAR#//#Qatari Rial#//#3.645000
+Saudi Arabia#//#SAR#//#Saudi Riyal#//#3.750000
+Switzerland#//#CHF#//#Swiss Franc#//#0.885000
+Syrian Arab Republic#//#SYP#//#Syrian Pound#//#13500.000000
+Tunisia#//#TND#//#Tunisian Dinar#//#3.120000
+Turkey#//#TRY#//#Turkish Lira#//#31.500000
+United Arab Emirates#//#AED#//#United Arab Emirates Dirham#//#3.672500
+United Kingdom#//#GBP#//#U.K. Pound#//#0.789000
+"Yemen, Republic of"#//#YER#//#Yemeni Rial#//#1650.500000
